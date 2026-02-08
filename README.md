@@ -1,32 +1,50 @@
-<h1 align="center">Hi 👋, I'm Pradeep Kumawat</h1>
-<h3 align="center">🚀 IIT Bombay Student | 💻 Developer | 🔐 Future Cybersecurity Expert</h3>
+<!-- ================= HEADER / BANNER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Linux+%7C+Programming+%7C+Open+Source;Always+Learning+New+Things;Building+Cool+Stuff+🚀&center=true&width=500&height=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pradeep%20Kumawat&fontSize=40&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20%7C%20Go%20Developer&descAlignY=60"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Student+at+IIT+Bombay;Cybersecurity+Enthusiast;Web+Developer;Go+Developer;Always+Learning+New+Things&center=true&width=600&height=45&color=00ffcc">
 </p>
 
 ---
 
-## 🌌 About Me
+## 👨‍💻 About Me
 
-- 🎓 Student at IIT Bombay  
-- 🔐 Learning Cybersecurity & Systems  
-- 💻 Linux & Programming Enthusiast  
-- 🚀 Building projects & improving daily  
+- 🎓 Student at **IIT Bombay**
+- 🔐 Cybersecurity Enthusiast
+- 🌐 Web Developer
+- ⚡ Go Developer
+
+I believe in continuous learning, problem-solving, and stepping out of my comfort zone — whether it’s a new tool, a new CTF, or a challenging side-project.
+
+**Long-term goal:** Blend technical expertise, creativity, and leadership to work on impactful security problems.
+
+💬 Always open to connecting with like-minded people, sharing ideas, and learning from diverse perspectives.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages, Skills & Tools
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,bash" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,go,linux,tailwind,nodejs,react,django,mongodb,docker,git,github,vercel" />
 </p>
 
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
-</p>
+### Cybersecurity Tools
+- JohnTheRipper
+- Wireshark
+- Burp Suite
+- OWASP Tools
+- Metasploit
+- Kali Linux
+- SQL exploitation & analysis
+
+### Additional Tools
+- VMware
+- Fusion 360
+- Automation & scripting
+- CTF tooling & pentesting workflows
 
 ---
 
@@ -43,12 +61,45 @@
 
 ---
 
-## 🚀 Current Goals
-- Contribute to open source
-- Improve cybersecurity skills
-- Crack elite internships
-- Build impactful projects
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+## 📜 Certifications
+
+- IBM Certification
+- ISC2 SkillUp Cybersecurity
+- AIBL Unix Automation
+- Google Professional Cybersecurity Certification
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/pradeep_kmt.deb/)">
+<img src="https://skillicons.dev/icons?i=instagram" height="40">
+</a>
+
+<a href="[https://www.linkedin.com/in/pradeep-kumawat-cyber/]">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40">
+</a>
+
+<a href="mailto:pradeepkumawat132005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40">
+</a>
+</p>
+
+---
+
+<p align="center">
+⚡ Code • Break • Learn • Repeat ⚡
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</p>
