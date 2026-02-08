@@ -1,7 +1,7 @@
 <!-- ================= HEADER / BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Pradeep%20Kumawat&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20%7C%20Go%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&text=Pradeep%20Kumawat&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20%7C%20Go%20Developer&descAlignY=70"/>
 </p>
 
 <p align="center">
