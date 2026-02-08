@@ -1,7 +1,7 @@
 <!-- ================= HEADER / BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pradeep%20Kumawat&fontSize=40&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20%7C%20Go%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Pradeep%20Kumawat&fontSize=38&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20%7C%20Go%20Developer&descAlignY=50"/>
 </p>
 
 <p align="center">
@@ -51,20 +51,7 @@ I believe in continuous learning, problem-solving, and stepping out of my comfor
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-iitb&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-iitb&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-iitb&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/YOUR_USERNAME/pradeep-iitb/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-iitb&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 ---
