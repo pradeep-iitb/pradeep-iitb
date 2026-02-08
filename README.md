@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Student+at+IIT+Bombay;Cybersecurity+Enthusiast;Web+Developer;Go+Developer;Always+Learning+New+Things&center=true&width=600&height=45&color=00ffcc">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Student+at+IIT+Bombay;Cybersecurity+Enthusiast;Ethical+Hacker;Web+Developer;Go+Developer;Always+Learning+New+Things&center=true&width=600&height=45&color=00ffcc">
 </p>
 
 ---
@@ -51,12 +51,12 @@ I believe in continuous learning, problem-solving, and stepping out of my comfor
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-iitb&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-iitb&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-iitb&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -64,7 +64,7 @@ I believe in continuous learning, problem-solving, and stepping out of my comfor
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/YOUR_USERNAME/pradeep-iitb/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
