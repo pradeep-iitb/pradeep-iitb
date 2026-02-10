@@ -40,12 +40,6 @@ I believe in continuous learning, problem-solving, and stepping out of my comfor
 - Kali Linux
 - SQL exploitation & analysis
 
-### Additional Tools
-- VMware
-- Fusion 360
-- Automation & scripting
-- CTF tooling & pentesting workflows
-
 ---
 
 
